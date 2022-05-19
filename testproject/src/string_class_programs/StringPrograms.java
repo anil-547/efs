@@ -22,7 +22,7 @@ public class StringPrograms {
 	
 		//comparing strings using compareTo()
 		System.out.println(s2.compareTo(s3)); //return 0 if true
-		System.out.println(s1.compareTo(s2)); //returns +ve if grater else return -ve
+		System.out.println(s1.compareTo(s1)); //returns +ve if grater else return -ve
 		
 		
 		}
